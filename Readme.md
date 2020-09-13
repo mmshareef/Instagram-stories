@@ -25,3 +25,9 @@ Instagram stories has more than [400 million](https://s21.q4cdn.com/399680738/fi
 **Why do you think stories have become this popular ?**
 
 So get ready to build this amazing feature in your milestone. For the reference you can watch out this [video](https://vimeo.com/186306184)
+
+| Feature       | Assigned to           | Deadline    | Completed On |
+| ------------- | --------------------- | ----------- | ------------ |
+| insta stories | Mohd Mudassir Shareef | 15-sep-2020 | 11-sep 2020  |
+| animation     | Mohd Mudassir Shareef | 15-sep-2020 | 11-sep-2020  |
+| animation bar | Mohd Mudassir Shareef | 15-sep-2020 | 11-sep-2020  |
