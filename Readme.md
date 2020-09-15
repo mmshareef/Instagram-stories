@@ -32,10 +32,3 @@ So get ready to build this amazing feature in your milestone. For the reference 
 | animation     | Mohd Mudassir Shareef | 15-sep-2020 | 11-sep-2020  |
 | animation bar | Mohd Mudassir Shareef | 15-sep-2020 | 11-sep-2020  |
 | previous/next | Mohd Mudassir Shareef | 15-sep-2020 | 11-sep-2020  |
-
-# Screenshots
-/home/mohd/Desktop/MS_10.-instagram-stories_Ursa_Tep_Hyderabad_Full-time_2020_1/instaStories.png
-/home/mohd/Desktop/MS_10.-instagram-stories_Ursa_Tep_Hyderabad_Full-time_2020_1/instaStories2.png
-/home/mohd/Desktop/MS_10.-instagram-stories_Ursa_Tep_Hyderabad_Full-time_2020_1/instaStories3.png
-
-
