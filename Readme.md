@@ -32,3 +32,9 @@ So get ready to build this amazing feature in your milestone. For the reference 
 | animation     | Mohd Mudassir Shareef | 15-sep-2020 | 11-sep-2020  |
 | animation bar | Mohd Mudassir Shareef | 15-sep-2020 | 11-sep-2020  |
 | previous/next | Mohd Mudassir Shareef | 15-sep-2020 | 11-sep-2020  |
+
+#Screenshots
+![instaStories3](https://user-images.githubusercontent.com/61781425/93214794-3dedea00-f783-11ea-81e4-96af3b035028.png)
+![instaStories2](https://user-images.githubusercontent.com/61781425/93214802-3fb7ad80-f783-11ea-9a19-522c0f69d653.png)
+![instaStories](https://user-images.githubusercontent.com/61781425/93214807-40504400-f783-11ea-8738-7e04c6c3d97e.png)
+
