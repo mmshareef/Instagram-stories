@@ -250,7 +250,7 @@ export default function App() {
                   style={{ height: 30, width: 30, borderRadius: 25 }}
                   source={{
                     uri:
-                      " https://images.unsplash.com/photo-1597905040800-0a8cea5a147f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+                      "https://images.unsplash.com/photo-1495567720989-cebdbdd97913?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
                   }}
                 />
                 <Text
@@ -304,7 +304,7 @@ export default function App() {
           <Image
             source={{
               uri:
-                " https://images.unsplash.com/photo-1597905040800-0a8cea5a147f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+                " https://images.unsplash.com/photo-1495567720989-cebdbdd97913?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
             }}
             style={{
               height: 70,
