@@ -31,4 +31,4 @@ So get ready to build this amazing feature in your milestone. For the reference 
 | insta stories | Mohd Mudassir Shareef | 15-sep-2020 | 11-sep 2020  |
 | animation     | Mohd Mudassir Shareef | 15-sep-2020 | 11-sep-2020  |
 | animation bar | Mohd Mudassir Shareef | 15-sep-2020 | 11-sep-2020  |
-| previos/next  | Mohd Mudassir Shareef | 15-sep-2020 | 11-sep-2020  |
+| previous/next | Mohd Mudassir Shareef | 15-sep-2020 | 11-sep-2020  |
